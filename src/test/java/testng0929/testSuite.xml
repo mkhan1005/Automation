@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Suite" parallel="none">
+    <test name="TestSuit">
+        <classes>
+            <class name="testng0929.express_data_driven_loggers" />
+            <class name="Action_item.ActionItem_yahoo" />
+            <class name="testNG0938.testNg_0938" />
+            <class name="testNG0938.Weight_Warcher_TestNG" />
+            <class name="Action_item.ActionItem_Express"/>
+         <!--   <class name="testNg_1005.Express_Abstract"/>
+            <class name="testNg_1005.Weight_Watcher_Abstract"/>-->
+        </classes>
+    </test>
+</suite>

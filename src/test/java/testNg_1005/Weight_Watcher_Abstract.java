@@ -1,0 +1,68 @@
+package testNg_1005;
+
+import Reusable_classes.Abstrat_class;
+import Reusable_classes.Reusable_Library_loggers;
+import com.relevantcodes.extentreports.LogStatus;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.testng.annotations.*;
+
+import java.io.IOException;
+
+import static Reusable_classes.Reusable_Library_loggers.clickByIndex;
+
+public class Weight_Watcher_Abstract extends Abstrat_class {
+
+    @Test
+    public void Capture_Current_Operation_Hour() throws InterruptedException, IOException {
+
+        //re navigate to weight watchers
+        logger.log(LogStatus.INFO,"Navigating to Weight Watchers Homepage");
+        driver.navigate().to("https://www.weightwatchers.com/us");
+
+        //timeout to capture the page title
+        Thread.sleep(3000);
+        //verifying the page title
+        String title1 = driver.getTitle();
+        if (title1.equals("Weight Loss Program, Recipes & Help | Weight Watchers")) {
+            logger.log(LogStatus.PASS,"Title matches");
+        } else {
+            logger.log(LogStatus.FAIL,"Title doesn't match " + title1);
+        }
+
+        //click on 'Find a Meeting' button
+        click(driver, "//*[@class='find-a-meeting']",0, logger,"Find a Meeting");
+
+        //timeout to capture the page title 2
+        Thread.sleep(3000);
+        //verifying the page title 2
+        String title2 = driver.getTitle();
+        if (title2.equals("Find a Studio & Meeting Near You |")) {
+            System.out.println("Title matches");
+        } else {
+            System.out.println("Title doesn't match " + title2);
+        }
+
+        //enter zipcode
+        userInput(driver, "//*[@id='meetingSearch']", 0,"11218", logger,"Enter Location");
+        //click on Search button
+        click(driver, "//*[@spice='SEARCH_BUTTON']", 0,logger,"Search Button");
+        //caputre the first result for meeting location
+        String meetLocation = captureTextByIndex(driver, "//*[@class='location__name']", 0, logger,"Meeting Location");
+        //click on first element using index
+        clickByIndex(driver, "//*[@class='location__name']", 0, logger,"Location Name Link");
+
+        //caputre the current day operation hour
+        String opHour = null;
+        //if the operation hour is not present for a zipcode then store the variable inside try catch
+        try {
+            Thread.sleep(2800);
+            opHour = driver.findElements(By.xpath("//*[contains(@class,'currentday')]")).get(0).getText();
+        } catch (Exception e) {
+            opHour = "Current Operation Hour is not available for this Zip Code";
+        }
+
+    }//end of test
+
+
+}//end of class

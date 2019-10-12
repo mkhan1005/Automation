@@ -1,0 +1,13 @@
+<!--
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Suite" parallel="none">
+    <test name="Regressing Suite">
+        <parameter name="Browser" value="Chrome"/>
+        <classes>
+            <class name="Action_item.TC02_Yahoo_Registration" />
+
+        </classes>
+    </test>
+</suite>
+-->
