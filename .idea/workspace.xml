@@ -1,133 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="020c859b-bcc5-4872-b368-ae2344ff302f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10102019_190523_635.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10102019_191246_364.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10102019_192334_204.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10102019_193156_023.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10102019_193441_743.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10112019_000020_396.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10112019_000202_497.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10112019_000323_982.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10112019_002201_634.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10112019_002901_444.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10112019_003809_909.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10112019_004249_045.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10112019_005342_615.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10112019_005919_578.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10112019_010058_013.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10112019_130049_983.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10122019_101716_832.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10122019_104125_906.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10122019_104344_579.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10122019_104747_087.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10122019_111035_090.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10122019_111804_929.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10122019_112814_303.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10122019_114659_472.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10122019_115445_799.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10122019_121801_542.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport20191005_220557_679.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport20191006_120020_133.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport20191006_215240_656.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/ExpressReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Birth Day.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Birth Month Dropdown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Birth Month.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Birth Year.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Checkout.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Continue as Guest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Continue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Dresses.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Email Address.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/First Name.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/First Result.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Jumpsuits &amp; Rompers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Last Name.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Password.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Phone Number.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Quantity.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Verification Message.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Women.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/captchaFrameIssue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Reusable_classes/Abstrat_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Reusable_classes/Reusable_Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Reusable_classes/Reusable_Library_logger_POM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Reusable_classes/Reusable_Library_loggers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Yahoo_Page_Object/Review_Yahoo_Registration_Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Yahoo_Page_Object/Yahoo_Base_Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Yahoo_Page_Object/Yahoo_Homepage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Yahoo_Page_Object/Yahoo_Registragion_Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Yahoo_Page_Object/Yahoo_SearchResultPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Expresss.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Expresss_results.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/WeightWatchers.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/WeightWatchers_results.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/YahooRegistration.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/YahooRegistration1.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/YahooRegistrationResults.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/this.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/thisResults.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Action_item/ActionItem_Express.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Action_item/ActionItem_yahoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Action_item/Review_Suite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Action_item/TC02_Yahoo_Registration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Action_item/Yahoo_Suite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Action_item/review_Yahoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Yahoo_Test_Page_Object/TC01_Yahoo_Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Yahoo_Test_Page_Object/Yahoo_Suite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testNG0938/TestNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testNG0938/Weight_Warcher_TestNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testNG0938/testNg_0938.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testNg_1005/Express_Abstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testNg_1005/Weight_Watcher_Abstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng0929/CrossBrowerTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng0929/Extent_Report_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng0929/express_data_driven_loggers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng0929/testSuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Expresss.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Expresss_results.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/selenium-java.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Reusable_classes/Abstrat_class.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Reusable_classes/Reusable_Library.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Reusable_classes/Reusable_Library_logger_POM.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Reusable_classes/Reusable_Library_loggers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/WeightWatchers.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/WeightWatchers_results.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/YahooRegistration.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/YahooRegistration1.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/YahooRegistrationResults.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Yahoo_Page_Object/Review_Yahoo_Registration_Page.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Yahoo_Page_Object/Yahoo_Base_Class.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Yahoo_Page_Object/Yahoo_Homepage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Yahoo_Page_Object/Yahoo_Registragion_Page.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Yahoo_Page_Object/Yahoo_SearchResultPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/this.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Action_item/ActionItem_Express.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Action_item/ActionItem_yahoo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Action_item/TC02_Yahoo_Registration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Action_item/review_Yahoo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/selenium-java.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Yahoo_Test_Page_Object/TC01_Yahoo_Search.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/testNG0938/TestNG.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/testNG0938/Weight_Warcher_TestNG.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/testNG0938/testNg_0938.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/testng0929/Extent_Report_Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/testng0929/express_data_driven_loggers.class" afterDir="false" />
-    </list>
+    <list default="true" id="020c859b-bcc5-4872-b368-ae2344ff302f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,8 +28,11 @@
     </option>
   </component>
   <component name="ProjectId" id="1RCSSWrwEuqq98tAl2JDRj47cv9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -299,5 +176,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
