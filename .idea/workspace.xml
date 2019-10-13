@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="020c859b-bcc5-4872-b368-ae2344ff302f" name="Default Changelist" comment="" />
+    <list default="true" id="020c859b-bcc5-4872-b368-ae2344ff302f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Report_Folder/AutomationReport10132019_093138_770.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Birth Day.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Birth Month Dropdown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Birth Month.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Birth Year.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Checkout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Continue as Guest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Continue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Dresses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Email Address.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/First Name.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/First Result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Jumpsuits &amp; Rompers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Last Name.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Password.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Phone Number.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Quantity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Verification Message.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/Women.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Report_Folder/Screenshots/captchaFrameIssue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testNg_1005/Express_Abstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testNg_1005/Express_Abstract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testNg_1005/Weight_Watcher_Abstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testNg_1005/Weight_Watcher_Abstract.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,6 +185,14 @@
       <workItem from="1569514013480" duration="6000" />
       <workItem from="1569543371552" duration="13000" />
     </task>
+    <task id="LOCAL-00001" summary="///">
+      <created>1570902165760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570902165760</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +203,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -179,5 +213,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="///" />
+    <option name="LAST_COMMIT_MESSAGE" value="///" />
   </component>
 </project>

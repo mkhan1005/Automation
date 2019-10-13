@@ -1,3 +1,4 @@
+/*
 package testNg_1005;
 
 import Reusable_classes.Abstrat_class;
@@ -29,7 +30,7 @@ public class Weight_Watcher_Abstract extends Abstrat_class {
         } else {
             logger.log(LogStatus.FAIL,"Title doesn't match " + title1);
         }
-///
+
         //click on 'Find a Meeting' button
         click(driver, "//*[@class='find-a-meeting']",0, logger,"Find a Meeting");
 
@@ -66,3 +67,4 @@ public class Weight_Watcher_Abstract extends Abstrat_class {
 
 
 }//end of class
+*/
